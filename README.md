@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Microservices, Generative AI, Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sujayts21](https://github.com/Sujayts21)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sujayts21)
 
 - 📫 How to reach me **tssujay21@gmail.com**
 
-- 📄 Know about my experiences []
+- 📄 Know about my experiences [Resume]()
 
 
 <h3 align="left">Connect with me:</h3>
