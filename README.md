@@ -26,4 +26,4 @@
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujayts21&show_icons=true&locale=en" alt="Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujayts21&" alt="Streak" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sujayts21&theme=blue-green" alt="GitHub Streak" /></a>
