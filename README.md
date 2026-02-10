@@ -25,6 +25,6 @@
 
 ### GitHub Analytics:
 <p>
-  &nbsp;<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujayts21&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujayts21&layout=compact&langs_count=8&theme=tokyonight"/>
+  &nbsp;<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujayts21&show_icons=true&theme=tokyonight"/>
+  &nbsp;&nbsp;<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujayts21&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
